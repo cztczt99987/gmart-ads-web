@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm run:*)",
+      "Bash(gh auth *)",
+      "Bash(git init *)"
+    ]
+  }
+}
